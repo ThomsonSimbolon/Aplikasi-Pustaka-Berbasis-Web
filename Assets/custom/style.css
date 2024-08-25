@@ -1,0 +1,24 @@
+.btn-custom {
+  transition: transform 0.25s ease-in-out;
+}
+
+.btn-custom:hover {
+  transform: scale(1.3);
+}
+
+#sidebarToggle:hover {
+  transition: 0.3s ease-in-out;
+}
+
+.btn-login {
+  background-color: #007bff !important;
+  transition: all.25s ease-in-out !important;
+}
+
+.btn-login:hover {
+  background-color: #2370c1 !important;
+}
+
+.btn-login:focus {
+  outline: none !important;
+}
